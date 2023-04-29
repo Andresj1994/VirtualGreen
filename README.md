@@ -3,7 +3,7 @@ Streming
 <html>
 <head>
 	<meta content="text/html;charset=iso-8859-1" http-equiv="content-type" />
-	<title>Palimpalem</title>
+	
 </head>
 <body style="background-color: rgb(51, 204, 0); background-image: url();">
 <p><strong>****PROVEDORES DE CUENTAS STREMING VENDEMOS AL MAYOR&nbsp; Y AL DETAL****</strong></p>
